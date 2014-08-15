@@ -17,5 +17,12 @@ namespace ClassLibrary
             Assert.IsTrue(true);
             Thread.Sleep(5000);
         }
+
+        [Test]
+        public void AssertClassFail()
+        {
+            Assert.IsTrue(false);
+            Thread.Sleep(5000);
+        }
     }
 }
