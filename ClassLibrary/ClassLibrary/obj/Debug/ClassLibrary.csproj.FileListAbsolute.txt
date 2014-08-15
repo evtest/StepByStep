@@ -1,0 +1,7 @@
+C:\Users\Evgen\Documents\GitHub\StepByStep\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Evgen\Documents\GitHub\StepByStep\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Evgen\Documents\GitHub\StepByStep\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Evgen\Documents\GitHub\StepByStep\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Evgen\Documents\GitHub\StepByStep\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Evgen\Documents\GitHub\StepByStep\ClassLibrary\ClassLibrary\bin\Debug\nunit.framework.dll
+C:\Users\Evgen\Documents\GitHub\StepByStep\ClassLibrary\ClassLibrary\bin\Debug\nunit.framework.xml
