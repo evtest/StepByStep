@@ -1,24 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="C:\Users\Evgen\Documents\GitHub\StepByStep\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll" total="2" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-08-15" time="13:37:58">
+<test-results name="C:\Users\Evgen\Documents\GitHub\StepByStep\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-08-15" time="13:54:00">
   <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5477" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\Evgen\Documents\GitHub\StepByStep\ClassLibrary\ClassLibrary\bin\Debug" machine-name="TOASTER001PC" user="Evgen" user-domain="TOASTER001pc" />
   <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
-  <test-suite type="Assembly" name="C:\Users\Evgen\Documents\GitHub\StepByStep\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll" executed="True" result="Failure" success="False" time="6.301" asserts="0">
+  <test-suite type="Assembly" name="C:\Users\Evgen\Documents\GitHub\StepByStep\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll" executed="True" result="Success" success="True" time="10.335" asserts="0">
     <results>
-      <test-suite type="Namespace" name="ClassLibrary" executed="True" result="Failure" success="False" time="6.177" asserts="0">
+      <test-suite type="Namespace" name="ClassLibrary" executed="True" result="Success" success="True" time="10.253" asserts="0">
         <results>
-          <test-suite type="TestFixture" name="Class1" executed="True" result="Failure" success="False" time="6.157" asserts="0">
+          <test-suite type="TestFixture" name="Class1" executed="True" result="Success" success="True" time="10.241" asserts="0">
             <results>
-              <test-case name="ClassLibrary.Class1.AssertClassFail" executed="True" result="Failure" success="False" time="0.510" asserts="1">
-                <failure>
-                  <message><![CDATA[  Expected: True
-  But was:  False
-]]></message>
-                  <stack-trace><![CDATA[в ClassLibrary.Class1.AssertClassFail() в c:\Users\Evgen\Documents\GitHub\StepByStep\ClassLibrary\ClassLibrary\Class1.cs:строка 24
-]]></stack-trace>
-                </failure>
-              </test-case>
-              <test-case name="ClassLibrary.Class1.AssertClassStart" executed="True" result="Success" success="True" time="5.002" asserts="1" />
+              <test-case name="ClassLibrary.Class1.AssertClassFail" executed="True" result="Success" success="True" time="5.116" asserts="1" />
+              <test-case name="ClassLibrary.Class1.AssertClassStart" executed="True" result="Success" success="True" time="5.003" asserts="1" />
             </results>
           </test-suite>
         </results>
