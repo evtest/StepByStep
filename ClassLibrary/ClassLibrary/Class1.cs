@@ -12,7 +12,7 @@ namespace ClassLibrary
     public class Class1
     {
         [Test]
-        public void AssertClass()
+        public void AssertClassStart()
         {
             Assert.IsTrue(true);
             Thread.Sleep(5000);
